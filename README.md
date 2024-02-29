@@ -3,7 +3,7 @@
 
 
 <h1>How to set up Windows Server 2022 on a Hyper-V Virtual Machine</h1>
-This tutorial summarizes the prerequisites and installation of Windows Server 2022 on a Hyper-V Virtual Machine .<br />
+This tutorial summarizes the prerequisites and installation of Windows Server 2022 on a Hyper-V Virtual Machine.<br />
 
 
 <h2>Environments and Technologies Used</h2>
